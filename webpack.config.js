@@ -1,3 +1,5 @@
+// this file is run with npm run build
+// it uses babel to compile everything in client/src into bundle.js
 const path = require('path');
 
 module.exports = {
